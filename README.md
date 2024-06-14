@@ -1,5 +1,5 @@
 # jstodolist
-                       <h1>   To Do List </h1>
+                To Do List
 
  - Ajouter une tâche : JavaScript, lorsque l'utilisateur clique sur le bouton "Ajouter une
 tâche", une nouvelle tâche est ajoutée à la liste. Le texte de la nouvelle tâche doit être
